@@ -1,5 +1,11 @@
 <div align="center">
 
+# 🌐 Live Portfolio → [**jahidul-mallick.web.app**](https://jahidul-mallick.web.app)
+
+### Open the link above to view the live site directly in your browser
+
+<br/>
+
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
